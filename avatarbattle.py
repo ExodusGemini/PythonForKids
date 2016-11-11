@@ -282,7 +282,7 @@ while totalLoop == 0:
 			quit()
 		os.system('clear')
 		attackbanner()
-		print("\nYou dodged the attack and struck " + opponent + "! You lose 15 HP")
+		print("\nYou dodged the attack and struck " + opponent + "! Opponent loses 15 HP")
 		raw_input("")
 		attackLoop = 0
 		healthCheck = 0
